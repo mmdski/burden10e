@@ -14,6 +14,7 @@ typedef struct
   int    i;
 } BisectionData;
 
+// algorithm 2.1
 double
 bisection (double (*f) (double x), BisectionData *data)
 {
@@ -66,6 +67,7 @@ f (double x)
   return x * x * x + 4 * x * x - 10;
 }
 
+// example 1 in section 2.1
 int
 main (void)
 {

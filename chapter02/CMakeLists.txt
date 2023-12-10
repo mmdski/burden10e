@@ -1,1 +1,1 @@
-add_executable(example02.01 example02.01.c)
+add_executable(algo02.01 algo02.01.c)
