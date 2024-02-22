@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.18)
 
-project(burden10e)
+project(burden10e LANGUAGES C)
 
 set(CMAKE_C_STANDARD 99)
 set(CMAKE_C_STANDARD_REQUIRED True)
@@ -17,3 +17,4 @@ else()
 endif()
 
 add_subdirectory(chapter02)
+add_subdirectory(chapter06)
