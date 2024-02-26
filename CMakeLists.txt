@@ -18,3 +18,4 @@ endif()
 
 add_subdirectory(chapter02)
 add_subdirectory(chapter06)
+add_subdirectory(chapter07)
