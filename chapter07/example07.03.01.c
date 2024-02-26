@@ -42,7 +42,7 @@ main (void)
   unsigned int max_iter = 15;
   double       tol      = 1e-3;
 
-  if (algo_07_07 (a, b, x, xo, tol, max_iter))
+  if (algo_07_01 (a, b, x, xo, tol, max_iter))
     matrix_print (x);
   else
     printf ("Maximum number of iterations exceeded\n");

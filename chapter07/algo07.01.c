@@ -6,7 +6,7 @@
 #include "matrix.h"
 
 bool
-algo_07_07 (Matrix      *a,
+algo_07_01 (Matrix      *a,
             Matrix      *b,
             Matrix      *x,
             Matrix      *xo,
