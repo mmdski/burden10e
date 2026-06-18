@@ -1,5 +1,0 @@
-add_executable(algo02.01 algo02.01.c)
-add_executable(algo02.02 algo02.02.c)
-add_executable(algo02.03 algo02.03.c)
-add_executable(algo02.04 algo02.04.c)
-add_executable(algo02.06 algo02.06.c)
